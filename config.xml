@@ -15,7 +15,7 @@
    <feature name="http://api.phonegap.com/1.0/file"/>
    <feature name="http://api.phonegap.com/1.0/notification"/>
 
-   <preference name="phonegap-version" value="2.7.0" />
+   <preference name="phonegap-version" value="2.3.0" />
    <preference name="target-device" value="universal" />
 
    <access origin="*" />
